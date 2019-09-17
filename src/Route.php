@@ -40,7 +40,7 @@ class Route
 
     public function setControlador()
     {
-        $this->controlador = $this->uri[1] === '' ? 'home' : $this->uri[1];
+        $this->controlador = $this->uri[3] === '' ? 'home' : $this->uri[3];
     }
 
 
