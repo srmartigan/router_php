@@ -1,10 +1,8 @@
 <?php
 
 
-namespace Diversoft;
+namespace Diversoft\Controller;
 use Diversoft\Controller;
-require ('../src/Controller.php');
-
 
 class HomeController extends Controller
 {
