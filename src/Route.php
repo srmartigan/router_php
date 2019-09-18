@@ -38,7 +38,7 @@ class Route
 
     public function setControlador()
     {
-        $this->controlador = $this->uri[3] === '' ? 'home' : $this->uri[3];
+        $this->controlador = $this->uri[1] === '' ? 'home' : $this->uri[1];
     }
 
 
@@ -50,7 +50,7 @@ class Route
 
     public function setMetodo()
     {
-        $this->metodo = !empty($this->uri[2]) ? $this->uri[2] : 'exec';
+        $this->metodo = !empty($this->uri[2]) ? $this->uri[2] : 'index';
     }
 
 

@@ -20,7 +20,7 @@
   <component name="ProjectId" id="1Qncu04oadBP3OFgaVWn7W8Qen4" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../updateWeb" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,7 +61,7 @@
       <workItem from="1568410020625" duration="198000" />
       <workItem from="1568411276820" duration="3083000" />
       <workItem from="1568419676421" duration="755000" />
-      <workItem from="1568741926779" duration="7329000" />
+      <workItem from="1568741926779" duration="10694000" />
     </task>
     <servers />
   </component>
